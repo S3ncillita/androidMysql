@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tecnicos">
+        <item >TECNICO</item>
+        <item>ALAN CENTURION</item>
+        <item>DEMIS VILLAMAYOR</item>
+        <item>FERNANDO RUIZ</item>
+        <item>JIMY LOPEZ</item>
+        <item>JORGE CABALLERO</item>
+        <item>JULIO OLMEDO</item>
+        <item>LUIS PARODI</item>
+        <item>LUIS LEZCANO</item>
+        <item>MANUEL ARANDA</item>
+        <item>NELSON LOPEZ</item>
+        <item>RODRIGO CABRAL</item>
+        <item>ROLANDO PEREZ</item>
+        <item>ROQUE SANDOVAL</item>
+        <item>SERGIO ACHUCARRO</item>
+
+
+
+    </string-array>
+
+
+</resources>

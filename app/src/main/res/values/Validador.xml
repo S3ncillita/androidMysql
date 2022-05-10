@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Validador">
+        <item >DETALLES DEL VALIDADOR</item>
+        <item>ACTUALIZACION</item>
+        <item >CAMBIO DE CAJITA</item>
+        <item >CAMBIO DE CONECTOR</item>
+        <item >CAMBIO DE VALIDADOR</item>
+        <item >CAMBIO DE FUSIBLE</item>
+        <item >COLOCACION DE COOLER</item>
+        <item >COOLER CON DISIPADOR</item>
+        <item >COOLER TRASERO</item>
+        <item >ERROR DE LECTURA</item>
+        <item >LUZ NO ENCIENDE(R O V)</item>
+        <item >PANTALLA NEGRA</item>
+        <item >PARTE ELECTRICA</item>
+        <item >PROBLEMA DE CHIP (U,R,T)</item>
+        <item >REINICIO DEL VALIDADOR</item>
+        <item >VALIDADOR APAGADO</item>
+        <item >EMPALME DEL CONECTOR</item>
+
+
+
+
+    </string-array>
+
+
+</resources>

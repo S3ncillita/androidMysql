@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empresa">
+        <item >"EMPRESA"</item>
+    <item >AREGUEÑA</item>
+    <item >ALDANA 21</item>
+    <item >CAMPO LIMPIO</item>
+    <item >CONQUISTADOR</item>
+    <item >G QUIÑONEZ</item>
+    <item >GUARANI</item>
+    <item >LA UNION</item>
+    <item >LINCE</item>
+    <item >MAGNO</item>
+    <item >PUERTO ELSEÑO</item>
+    <item >LINEA 99</item>
+    <item >SAN ISIDRO</item>
+    <item >XIMEX</item>
+    <item >YPAKARAI</item>
+
+    </string-array>
+</resources>
